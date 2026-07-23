@@ -1,0 +1,6 @@
+# Additional speech-engine dependencies for Kokoro Reader 3.12
+edge-tts==7.2.8
+supertonic==1.3.1
+onnxruntime==1.27.0
+misaki[zh]>=0.8.2
+# Chatterbox-Flash is isolated from this shared runtime; see requirements-chatterbox.txt.

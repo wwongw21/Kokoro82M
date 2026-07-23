@@ -1,0 +1,36 @@
+﻿# Bundled runtimes and model weights (install locally)
+/python/
+/chatterbox-runtime/
+/models/
+/.uv-cache/
+/.ruff_cache/
+/.agents/
+
+# Caches and compiled
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Local runtime state / user data
+settings.json
+last_error.txt
+install.log
+*.wav
+preview.wav
+stream_segment.wav
+
+# Backups
+*.bak
+*.pre-*.bak
+
+# Binaries / packaged
+*.exe
+!AudioPostProcessor/AudioPostProcessor.exe
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/

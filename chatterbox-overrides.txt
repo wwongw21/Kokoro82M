@@ -1,0 +1,4 @@
+torch>=2.7,<2.8
+torchaudio>=2.7,<2.8
+torchvision>=0.22,<0.23
+transformers==5.2.0
